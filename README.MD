@@ -58,6 +58,7 @@ git clone https://github.com/seu-usuario/tropicalia.git
 cd tropicalia
 
 
-Desenvolvido por Gustavo Lima
+Desenvolvido por Arthur Romão
 Projeto inspirado no curso da Alura.
+
 
